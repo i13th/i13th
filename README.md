@@ -17,9 +17,11 @@
 
 ## Мои контакты:
 Телеграмм: <div id="badges">
-  <img src="https://img.shields.io/badge/t.me/i13_th-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+  <a href="https://t.me/i13_th">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 Почта: <div id="badges">
-  <img src="https://img.shields.io/badge/ivaschov.romanIR@yandex.ru-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://mail.yandex.ru">
+    <img src="https://img.shields.io/badge/ivaschov.romanIR@yandex.ru-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
