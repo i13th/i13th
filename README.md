@@ -17,7 +17,7 @@
 
 ## Мои контакты:
 Телеграмм: <div id="badges">
-  <img src="https://img.shields.io/badge/https://t.me/i13_th-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/t.me/i13_th-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 Почта: <div id="badges">
